@@ -1,3 +1,7 @@
+.container {
+    max-width: 1160px;
+    margin: 0 auto;
+}
 .fifth-background {
     background-image: url('../img/backgrond/section-5.png');
     width: 100%;
