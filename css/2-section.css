@@ -1,8 +1,10 @@
 .second-section {
     margin-top: 10px;
 }
+
 .blocks {
     display: flex;
+    justify-content: center;
     height: 370px;
 }
 

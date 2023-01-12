@@ -6,15 +6,16 @@
     background-position: center center;
     background-attachment: fixed;
 }
-.first-container {
+.container {
     max-width: 1160px;
     margin: 0 auto;
-    padding-bottom: 243px;
 }
+
 .first-main {
     display: flex;
     flex-direction: column;
     align-items: center;
+    padding-bottom: 243px;
 }
 .header {
     display: flex;

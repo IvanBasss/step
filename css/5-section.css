@@ -6,10 +6,7 @@
     background-position: center center;
     background-repeat: no-repeat;
 }
-.fifth-container {
-    max-width: 1160px;
-    margin: 0 auto;
-}
+
 .fifth-title {
     display: flex;
     flex-direction: column;

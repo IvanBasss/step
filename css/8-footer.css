@@ -2,11 +2,10 @@
     height: 121px;
     background: #22353f;
 }
-.footer-container {
+
+.footer-wrapp {
     display: flex;
     justify-content: center;
-    max-width: 1160px;
-    margin: 0 auto;
     padding-top: 48px;
 }
 .footer-text {

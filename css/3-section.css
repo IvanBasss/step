@@ -1,9 +1,7 @@
-.third-container {
+.third-wrapp {
     display: flex;
     flex-direction: column;
     align-items: center;
-    max-width: 1160px;
-    margin: 0 auto;
 }
 .third-title {
     display: flex;

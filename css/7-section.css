@@ -6,10 +6,7 @@
     background-position: center center;
     background-attachment: fixed;
 }
-.seventh-container {
-    max-width: 1160px;
-    margin: 0 auto;
-}
+
 .seventh-title {
     display: flex;
     flex-direction: column;
